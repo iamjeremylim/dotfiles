@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = limjeremy29@gmail.com
+	name = Jeremy Lim
